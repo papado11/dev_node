@@ -1,4 +1,4 @@
-# Sshd root 登陆问题
+# Sshd root
 
 修改ssh配置文件  
 /etc/ssh/sshd_config
